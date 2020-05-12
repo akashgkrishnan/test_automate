@@ -1,0 +1,24 @@
+2020-05-12 12:40:04,130 :INFO : test_case1 :{'Country': 'Ind', 'Actual_country': 'India'}
+2020-05-12 12:40:25,185 :INFO : test_case1 :{'Country': 'Ind', 'Actual_country': 'India'}
+2020-05-12 12:40:25,185 :INFO : test_case1 :{'Country': 'Ind', 'Actual_country': 'India'}
+2020-05-12 13:10:36,335 :INFO : test_case1 :opened website
+2020-05-12 13:10:37,219 :INFO : test_case1 :clicked on success
+2020-05-12 13:10:39,271 :INFO : test_case1 :products name:
+2020-05-12 13:10:41,189 :INFO : test_case1 :found blackberry movin to checkout
+2020-05-12 13:10:45,381 :INFO : test_case1 :moved to confirmation
+2020-05-12 13:10:50,643 :INFO : test_case1 :confirmed purchase
+2020-05-12 13:10:50,827 :DEBUG : test_case1 :done
+2020-05-12 13:10:59,686 :INFO : test_case1 :opened website
+2020-05-12 13:10:59,686 :INFO : test_case1 :opened website
+2020-05-12 13:11:00,685 :INFO : test_case1 :clicked on success
+2020-05-12 13:11:00,685 :INFO : test_case1 :clicked on success
+2020-05-12 13:11:02,706 :INFO : test_case1 :products name:
+2020-05-12 13:11:02,706 :INFO : test_case1 :products name:
+2020-05-12 13:11:03,526 :INFO : test_case1 :found blackberry movin to checkout
+2020-05-12 13:11:03,526 :INFO : test_case1 :found blackberry movin to checkout
+2020-05-12 13:11:07,755 :INFO : test_case1 :moved to confirmation
+2020-05-12 13:11:07,755 :INFO : test_case1 :moved to confirmation
+2020-05-12 13:11:13,094 :INFO : test_case1 :confirmed purchase
+2020-05-12 13:11:13,094 :INFO : test_case1 :confirmed purchase
+2020-05-12 13:11:13,318 :DEBUG : test_case1 :done
+2020-05-12 13:11:13,318 :DEBUG : test_case1 :done
